@@ -15,10 +15,6 @@
 
 - ⚡ Curiosidades **Estou sempre em constante aprendizado, sou um ótimo em comunicação.**
 
-<h3 align="left">Conecte-se comigo:</h3>
-< p align="left">
-</p>
-
 <<h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
