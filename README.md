@@ -5,10 +5,10 @@
 
 - 💼 Experiência prática com:
 
-- Desenvolvimento de sistemas com regras de negócio complexas
-- Integração com APIs REST e serviços externos
-- Implementação de automações (ex: gateway de pagamento)
-- Projetos reais para clientes institucionais
+  - Desenvolvimento de sistemas com regras de negócio complexas
+  - Integração com APIs REST e serviços externos
+  - Implementação de automações (ex: gateway de pagamento)
+  - Projetos reais para clientes institucionais
 
 - 🧠 Atualmente atuando com backend e soluções para o Senac RN
 
