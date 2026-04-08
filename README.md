@@ -1,11 +1,28 @@
 <h1 align="center">Olá 👋, Eu sou Pedro Lucas</h1>
-<h3 align="center">Sou estudante de desenvolvimento de sistemas da instituição Senac</h3>
+<h3 align="center">Desenvolvedor FullStack com experiência em construção de aplicações completas, atuando como Full-Stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lupalufa&label=Profile%20views&color=0e75b6&style=flat" alt="lupalufa" /> </p>
 
-- 🗣️ Estou estudando atualmente **EndPoint, Desenvolvimento de Sistemas, Scrum, JavaScript, HTML, CSS, React...**
+- 💼 Experiência prática com:
 
-- 🌱 Atualmente estou aprendendo **Frameworks, cursos, etc**
+- Desenvolvimento de sistemas com regras de negócio complexas
+- Integração com APIs REST e serviços externos
+- Implementação de automações (ex: gateway de pagamento)
+- Projetos reais para clientes institucionais
+
+- 🧠 Atualmente atuando com backend e soluções para o Senac RN
+
+- 🛠️ Tecnologias
+  - JavaScript / TypeScript
+  - React
+  - Node.js
+  - APIs REST
+  - Git & GitHub
+
+- 📌 Destaques
+  - Desenvolvimento de sistema de gestão com automação de pagamentos
+  - Alta autonomia no desenvolvimento (responsável por grande parte de sistemas)
+  - Foco em escalabilidade, manutenção e reutilização de código
 
 - 📕Certificações **https://www.credly.com/users/pedro-lucas.f9e866fa **
 
@@ -13,7 +30,9 @@
 
 - 📫 Como me contatar? **lupalufa431@gmail.com**
 
-- ⚡ Curiosidades **Estou sempre em constante aprendizado, sou um ótimo em comunicação.**
+- ⚡ Curiosidades **Sempre evoluindo e buscando construir soluções eficientes e escaláveis.**
+
+
 
 <<h3 align="left">Languages and Tools:</h3>
 
