@@ -23,7 +23,19 @@ Busco sempre construir sistemas escaláveis, bem estruturados e com foco em manu
 - Integração com serviços externos  
 - Automação de processos (ex: gateways de pagamento)  
 - Estruturação de backend com foco em organização e escalabilidade  
-- Versionamento e colaboração com Git e GitHub  
+- Versionamento e colaboração com Git e GitHub
+
+---
+
+## 🚀 Projetos Relevantes
+
+### Gestão de Casas
+- **Stack:** React, TypeScript, Node.js, PostgreSQL
+- **Autenticação:** Controle por papéis (usuário, admin, gestor)
+- **Pagamentos:** Gateway simulado com abstração (`PaymentGatewayPort`) → fácil troca por serviço real
+- **Arquitetura:** Backend estruturado com controllers, services e models
+- **Funcionalidades:** CRUD de imóveis, usuários e pagamentos, integrações frontend-backend
+- **Status do projeto:** Descontinuado por parte do cliente
 
 ---
 
