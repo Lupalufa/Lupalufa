@@ -1,64 +1,125 @@
-<h1 align="center">Olá 👋, Eu sou Pedro Lucas</h1>
-<h3 align="center">Desenvolvedor FullStack com experiência em construção de aplicações completas, atuando como Full-Stack</h3>
+<h1 align="center">Olá 👋, eu sou Pedro Lucas</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lupalufa&label=Profile%20views&color=0e75b6&style=flat" alt="lupalufa" /> </p>
-
-- 💼 Experiência prática com:
-
-  - Desenvolvimento de sistemas com regras de negócio complexas
-  - Integração com APIs REST e serviços externos
-  - Implementação de automações (ex: gateway de pagamento)
-  - Projetos reais para clientes institucionais
-
-- 🧠 Atualmente atuando com backend e soluções para o Senac RN
-
-- 🛠️ Tecnologias
-  - JavaScript / TypeScript
-  - React
-  - Node.js
-  - APIs REST
-  - Git & GitHub
-
-- 📌 Destaques
-  - Desenvolvimento de sistema de gestão com automação de pagamentos
-  - Alta autonomia no desenvolvimento (responsável por grande parte de sistemas)
-  - Foco em escalabilidade, manutenção e reutilização de código
-
-- 📕Certificações **https://www.credly.com/users/pedro-lucas.f9e866fa **
-
-- 👨‍💻 Todos os meus projetos estão disponíveis no [Github](Github)
-
-- 📫 Como me contatar? **lupalufa431@gmail.com**
-
-- ⚡ Curiosidades **Sempre evoluindo e buscando construir soluções eficientes e escaláveis.**
-
-
-
-<<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
+<p align="center">
+Desenvolvedor Full Stack com foco em construção de APIs, automações e sistemas com regras de negócio complexas.
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lupalufa&show_icons=true&locale=en&layout=compact" alt="lupalufa" />
+---
+
+## 💼 Sobre mim
+
+Sou desenvolvedor com experiência prática na construção de aplicações completas, atuando principalmente no backend e integração de serviços.
+
+Tenho atuação em projetos reais voltados para ambientes institucionais, incluindo desenvolvimento de soluções e integrações para o Senac RN.
+
+Busco sempre construir sistemas escaláveis, bem estruturados e com foco em manutenção e eficiência.
+
+---
+
+## 🚀 Experiência prática
+
+- Desenvolvimento de sistemas com regras de negócio complexas  
+- Construção e consumo de APIs REST  
+- Integração com serviços externos  
+- Automação de processos (ex: gateways de pagamento)  
+- Estruturação de backend com foco em organização e escalabilidade  
+- Versionamento e colaboração com Git e GitHub  
+
+---
+
+## 🧠 Tecnologias
+
+**Frontend**
+- HTML, CSS, Tailwind  
+- JavaScript, TypeScript  
+- React  
+
+**Backend**
+- Node.js  
+- NestJS  
+- Python  
+- Java  
+
+**Mobile**
+- React Native  
+
+**Banco de Dados**
+- PostgreSQL  
+
+**Testes**
+- Jest  
+
+**DevOps & Ferramentas**
+- Docker  
+- Git & GitHub  
+- Figma  
+
+---
+
+## 🚀 Projetos Relevantes
+
+🔒 **Sistema de gestão com automação de pagamentos**  
+- Integração com APIs externas  
+- Processamento automatizado de transações  
+- Implementação de regras de negócio complexas  
+- Redução de processos manuais  
+
+🔒 **API para integração de serviços externos**  
+- Arquitetura REST  
+- Estrutura organizada e escalável  
+- Foco em manutenção e clareza de código  
+
+---
+
+## 📜 Certificações
+
+- https://www.credly.com/users/pedro-lucas.f9e866fa
+
+---
+
+## 📫 Contato
+
+- Email: lupalufa431@gmail.com  
+
+---
+
+## ⚠️ Observação
+
+Alguns dos meus projetos mais relevantes foram desenvolvidos em ambientes profissionais e, por questões de confidencialidade, não estão disponíveis publicamente.  
+
+No entanto, posso fornecer mais detalhes sobre tecnologias utilizadas, arquitetura e desafios resolvidos mediante solicitação.
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lupalufa&show_icons=true&locale=pt-br" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lupalufa" />
 </p>
 
+---
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=lupalufa&show_icons=true&locale=en" alt="lupalufa" /></p>
+## 🛠️ Languages and Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lupalufa&" alt="lupalufa" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+</p>
+
+<p align="center"><b>Concepts:</b> REST APIs</p>
