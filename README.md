@@ -4,6 +4,8 @@
 Desenvolvedor Full Stack com foco em construção de APIs, automações e sistemas com regras de negócio complexas.
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lupalufa&label=Profile%20views&color=0e75b6&style=flat" alt="lupalufa" /> </p>
+
 ---
 
 ## 💼 Sobre mim
@@ -103,11 +105,15 @@ No entanto, posso fornecer mais detalhes sobre tecnologias utilizadas, arquitetu
 
 ---
 
-## 📊 Estatísticas
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lupalufa&show_icons=true&locale=pt-br" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lupalufa" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lupalufa&layout=compact" alt="Top Languages" />
 </p>
 
 ---
@@ -136,6 +142,4 @@ No entanto, posso fornecer mais detalhes sobre tecnologias utilizadas, arquitetu
 
 <p align="center"><b>Concepts:</b> REST APIs</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lupalufa&repo=Gestao-casas&layout=compact&hide=html" alt="Top Languages" />
-</p>
+
