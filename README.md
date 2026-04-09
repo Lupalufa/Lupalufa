@@ -135,3 +135,7 @@ No entanto, posso fornecer mais detalhes sobre tecnologias utilizadas, arquitetu
 </p>
 
 <p align="center"><b>Concepts:</b> REST APIs</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lupalufa&repo=Gestao-casas&layout=compact&hide=html" alt="Top Languages" />
+</p>
