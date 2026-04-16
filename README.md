@@ -29,7 +29,7 @@ Busco sempre construir sistemas escaláveis, bem estruturados e com foco em manu
 
 ---
 
-## 🚀 Projetos Relevantes
+## 📉 Projetos Relevantes
 
 ### Gestão de Casas
 - **Stack:** React, TypeScript, Node.js, PostgreSQL
