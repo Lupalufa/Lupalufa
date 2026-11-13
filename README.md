@@ -90,14 +90,6 @@ Funcionalidades e soluções:
 
 ---
 
-## 🤝 Liderança e colaboração
-
-Sou **Diretor de Projetos da WTech**, Empresa Júnior da UNI-RN, participando da organização de projetos, acompanhamento de entregas e aplicação de práticas ágeis.
-
-Tenho interesse especial em arquitetura de software, qualidade de código, segurança de aplicações e desenvolvimento de soluções que resolvam problemas reais.
-
----
-
 ## 📜 Certificações
 
 Minhas certificações e conquistas estão disponíveis no meu perfil:
