@@ -1,108 +1,124 @@
 <h1 align="center">Olá 👋, eu sou Pedro Lucas</h1>
 
 <p align="center">
-Desenvolvedor Full Stack com foco em construção de APIs, automações e sistemas com regras de negócio complexas.
+Desenvolvedor Full Stack | TypeScript • Node.js • React • Python
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lupalufa&label=Profile%20views&color=0e75b6&style=flat" alt="lupalufa" /> </p>
 
 ---
 
-## 💼 Sobre mim
+Sou desenvolvedor de software, formado como **Técnico em Desenvolvimento de Sistemas pelo SENAC-RN** e graduando em **Sistemas de Informação pela UNI-RN**.
 
-Sou desenvolvedor com experiência prática na construção de aplicações completas, atuando principalmente no backend e integração de serviços.
+Tenho experiência no desenvolvimento e manutenção de aplicações web, construção de APIs REST, integração entre sistemas e implementação de regras de negócio.
 
-Tenho atuação em projetos reais voltados para ambientes institucionais, incluindo desenvolvimento de soluções e integrações para o Senac RN.
+Atualmente, atuo como **Desenvolvedor Estagiário no SENAC Labs**, contribuindo para a evolução de soluções institucionais com foco em qualidade de código, segurança, organização e manutenibilidade.
 
-Busco sempre construir sistemas escaláveis, bem estruturados e com foco em manutenção e eficiência.
-
----
-
-## 🚀 Experiência prática
-
-- Desenvolvimento de sistemas com regras de negócio complexas  
-- Construção e consumo de APIs REST  
-- Integração com serviços externos  
-- Automação de processos (ex: gateways de pagamento)  
-- Estruturação de backend com foco em organização e escalabilidade  
-- Versionamento e colaboração com Git e GitHub
 
 ---
 
-## 📉 Projetos Relevantes
+## 💼 Experiência e atuação
 
-### Gestão de Casas
-- **Stack:** React, TypeScript, Node.js, PostgreSQL
-- **Autenticação:** Controle por papéis (usuário, admin, gestor)
-- **Pagamentos:** Gateway simulado com abstração (`PaymentGatewayPort`) → fácil troca por serviço real
-- **Arquitetura:** Backend estruturado com controllers, services e models
-- **Funcionalidades:** CRUD de imóveis, usuários e pagamentos, integrações frontend-backend
-- **Status do projeto:** Descontinuado por parte do cliente
-
----
-
-## 🧠 Tecnologias
-
-**Frontend**
-- HTML, CSS, Tailwind  
-- JavaScript, TypeScript  
-- React  
-
-**Backend**
-- Node.js  
-- NestJS  
-- Python  
-- Java  
-
-**Mobile**
-- React Native  
-
-**Banco de Dados**
-- PostgreSQL  
-
-**Testes**
-- Jest  
-
-**DevOps & Ferramentas**
-- Docker  
-- Git & GitHub  
-- Figma  
+- Desenvolvimento de APIs REST com **Node.js, TypeScript e NestJS**.
+- Desenvolvimento de interfaces com **React**.
+- Implementação de autenticação, autorização e controle de acesso baseado em papéis (RBAC).
+- Manutenção corretiva e evolutiva, refatoração e revisão de código.
+- Modelagem e consultas em bancos de dados relacionais.
+- Integração entre aplicações e serviços externos.
+- Participação em equipes multidisciplinares com metodologias ágeis.
+- Experiência com Python e desenvolvimento de soluções envolvendo IA.
 
 ---
 
-## 🚀 Projetos Relevantes
+## 🚀 Projetos e realizações
 
-🔒 **Sistema de gestão com automação de pagamentos**  
-- Integração com APIs externas  
-- Processamento automatizado de transações  
-- Implementação de regras de negócio complexas  
-- Redução de processos manuais  
+### 🛡️ SISPMP — Sistema Patrulha Maria da Penha
 
-🔒 **API para integração de serviços externos**  
-- Arquitetura REST  
-- Estrutura organizada e escalável  
-- Foco em manutenção e clareza de código  
+Projeto desenvolvido durante minha formação técnica no SENAC-RN.
+
+Atuei como **Tech Lead de Front-end**, contribuindo para a organização da arquitetura, refatoração de interfaces, integração com o backend e acompanhamento das entregas.
+
+🏆 **2º lugar no Prêmio IEL de Talentos 2026 — categoria técnica.**
+
+### 🧠 Sofia IA Hub — SENAC Labs
+
+Participação no desenvolvimento e evolução de uma plataforma institucional de gerenciamento de assistentes de IA.
+
+**Tecnologias:** NestJS, TypeScript, React e bancos de dados relacionais.
+
+Principais contribuições:
+
+- Desenvolvimento e manutenção de funcionalidades.
+- Implementação e evolução de endpoints.
+- Controle de acesso e validação de permissões.
+- Refatoração e revisão de código.
+- Melhorias relacionadas à segurança e à organização da aplicação.
+
+*Projeto institucional com código-fonte não público.*
+
+### 🏠 Gestão de Casas — Sistema de Reservas
+
+Aplicação Full Stack desenvolvida para gerenciamento de imóveis e reservas.
+
+**Tecnologias:** React, TypeScript, Node.js e PostgreSQL.
+
+Funcionalidades e soluções:
+
+- Gerenciamento de imóveis, usuários e reservas.
+- Autenticação e controle de permissões.
+- Regras de negócio para reservas e operações financeiras.
+- Arquitetura de integração com gateways de pagamento.
+- Implementação de um gateway simulado para testes.
+
+*Projeto descontinuado após a mudança de planos do cliente.*
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+**Linguagens:** TypeScript, JavaScript, Python, Java e SQL.
+
+**Front-end:** React, React Native, HTML5, CSS3 e Tailwind CSS.
+
+**Back-end:** Node.js, NestJS e Express.
+
+**Bancos de dados:** PostgreSQL, MySQL e SQL Server.
+
+**Testes e qualidade:** Jest, Playwright, Postman e Swagger/OpenAPI.
+
+**Ferramentas e infraestrutura:** Git, GitHub, GitLab, Docker, Linux e Figma.
+
+---
+
+## 🤝 Liderança e colaboração
+
+Sou **Diretor de Projetos da WTech**, Empresa Júnior da UNI-RN, participando da organização de projetos, acompanhamento de entregas e aplicação de práticas ágeis.
+
+Tenho interesse especial em arquitetura de software, qualidade de código, segurança de aplicações e desenvolvimento de soluções que resolvam problemas reais.
 
 ---
 
 ## 📜 Certificações
 
-- https://www.credly.com/users/pedro-lucas.f9e866fa
+Minhas certificações e conquistas estão disponíveis no meu perfil:
+
+[Credly — Pedro Lucas](https://www.credly.com/users/pedro-lucas.f9e866fa)
 
 ---
 
 ## 📫 Contato
 
-- Email: lupalufa431@gmail.com  
+📧 **E-mail:** [lupalufa431@gmail.com](mailto:lupalufa431@gmail.com)
+
+🔗 **GitHub:** [github.com/lupalufa](https://github.com/lupalufa)
 
 ---
 
-## ⚠️ Observação
+### 🔒 Sobre projetos privados
 
-Alguns dos meus projetos mais relevantes foram desenvolvidos em ambientes profissionais e, por questões de confidencialidade, não estão disponíveis publicamente.  
+Parte da minha experiência envolve sistemas institucionais e projetos profissionais com repositórios privados.
 
-No entanto, posso fornecer mais detalhes sobre tecnologias utilizadas, arquitetura e desafios resolvidos mediante solicitação.
-
+Por questões de confidencialidade, seus códigos-fonte não estão disponíveis publicamente. Posso compartilhar informações sobre tecnologias, decisões técnicas e desafios enfrentados, respeitando as restrições de cada projeto.
 ---
 
 ## 📊 GitHub Stats
