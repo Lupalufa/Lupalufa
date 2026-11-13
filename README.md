@@ -40,6 +40,8 @@ Atuei como **Tech Lead de Front-end**, contribuindo para a organização da arqu
 
 🏆 **2º lugar no Prêmio IEL de Talentos 2026 — categoria técnica.**
 
+*Projeto com código-fonte não público.*
+
 ### 🧠 Sofia IA Hub — SENAC Labs
 
 Participação no desenvolvimento e evolução de uma plataforma institucional de gerenciamento de assistentes de IA.
@@ -54,7 +56,7 @@ Principais contribuições:
 - Refatoração e revisão de código.
 - Melhorias relacionadas à segurança e à organização da aplicação.
 
-*Projeto institucional com código-fonte não público.*
+*Projeto com código-fonte não público.*
 
 ### 🏠 Gestão de Casas — Sistema de Reservas
 
@@ -69,8 +71,6 @@ Funcionalidades e soluções:
 - Regras de negócio para reservas e operações financeiras.
 - Arquitetura de integração com gateways de pagamento.
 - Implementação de um gateway simulado para testes.
-
-*Projeto descontinuado após a mudança de planos do cliente.*
 
 ---
 
